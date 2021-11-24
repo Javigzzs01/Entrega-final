@@ -98,7 +98,7 @@ do {
 	if ((opcion_==1)) {
 		cout << "Menu inventario" << endl;
 		cout << "Elija una opcion" << endl;
-		cout << "1:Agregar producto" << endl;
+		cout << "1 = Agregar producto" << endl;
 		cout << "2 = Productos con menor y mayor ventas" << endl;
 		cout << "3 = Lista de descuentos" << endl;
 		cout << "4 = Salir" << endl;
